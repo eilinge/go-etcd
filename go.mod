@@ -1,4 +1,4 @@
-module github.com/gobuild
+module github.com/eilinge/go-etcd
 
 go 1.13
 
